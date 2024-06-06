@@ -5,7 +5,7 @@
         "summary": "sum",
         "content": "body",
         "notificationDateTime": "1990-11-11T11:11:00Z",
-        "hidden": false,
+        "hidden": "No",
         "category": "Information"
     }
 ]
